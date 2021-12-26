@@ -26,5 +26,5 @@ pipeline {
                         echo "Deploying in Production Area"
                   }      
             }
-      }
-}
+       }
+ }
